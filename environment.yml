@@ -1,0 +1,24 @@
+name: anacondaEnv
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0
+  - ca-certificates=2024.7.2
+  - expat=2.6.2
+  - libffi=3.4.4
+  - openssl=3.0.14
+  - pip:
+      - spotipy
+      - google-api-python-client
+      - selenium
+  - python=3.12
+  - setuptools=72.1.0
+  - sqlite=3.45.3
+  - tk=8.6.14
+  - tzdata=2024a
+  - vc=14.40
+  - vs2015_runtime=14.40
+  - wheel=0.43
+  - xz=5.4
+  - zlib=1.2
+prefix: C:\Users\leoca\anaconda3\envs\anacondaEnv
